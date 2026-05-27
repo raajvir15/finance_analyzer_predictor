@@ -1,0 +1,13 @@
+prefix=D:/finance_analyzer_predictor/venv/Library
+exec_prefix=D:/finance_analyzer_predictor/venv/Library
+libdir=D:/finance_analyzer_predictor/venv/Library/lib
+sharedlibdir=D:/finance_analyzer_predictor/venv/Library/lib
+includedir=D:/finance_analyzer_predictor/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
