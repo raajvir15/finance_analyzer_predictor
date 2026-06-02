@@ -12,12 +12,12 @@ Live App: https://smart-finance-analyzer-raajvir15.streamlit.app
 
 ## Screenshot
 
-![App Screenshot](assets/screenshot1.png)
-![App Screenshot](assets/screenshot2.png)
-![App Screenshot](assets/screenshot3.png)
-![App Screenshot](assets/screenshot4.png)
-![App Screenshot](assets/screenshot5.png)
-![App Screenshot](assets/screenshot6.png)
+![App Screenshot](assets/Screenshot1.png)
+![App Screenshot](assets/Screenshot2.png)
+![App Screenshot](assets/Screenshot3.png)
+![App Screenshot](assets/Screenshot4.png)
+![App Screenshot](assets/Screenshot5.png)
+![App Screenshot](assets/Screenshot6.png)
 ---
 
 ## Features
